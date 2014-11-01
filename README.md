@@ -26,5 +26,5 @@ Write the media queries neccesary in the css files for each corresponding animal
 
  ## Resources
  
-[Finished Solution Example](http://flatiron-school-curriculum.github.io/animal-save/)
+[Finished Solution Example](http://flatiron-school-curriculum.github.io/animal-save/)  
 [Mozilla Dev Network - CSS Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
