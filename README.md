@@ -22,9 +22,9 @@ Write the media queries neccesary in the css files for each corresponding animal
   * For the monkey, use a combination of min-width and max-width to set a media query that will allow the Monkey to jump up over the Spice Girls from screen size of 406px to 1090px keeping him safe from their affection.
   * For the dolphin, using min-width and max-width help her rotate and jump up through the hoop from screen sizes of 642px to 1090px. Note: you can use transform: rotate() command to accomplish this. Read about the setting for rotate [here](https://developer.mozilla.org/en-US/docs/Web/CSS/transform).
 
- There is a finished working copy of this site [here](http://flatiron-school-curriculum.github.io/animal-save/).
+ There is a finished working copy of this site [here](http://learn-co-curriculum.github.io/animal-save/).
 
  ## Resources
  
-[Finished Solution Example](http://flatiron-school-curriculum.github.io/animal-save/)  
+[Finished Solution Example](http://learn-co-curriculum.github.io/animal-save/)  
 [Mozilla Dev Network - CSS Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
