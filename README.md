@@ -1,9 +1,4 @@
----
-languages: html, css
-tags: css3, media queries, animal, save
-resources: 2
-type: lab, challenge
----
+
 
 # Animal Save!
 
