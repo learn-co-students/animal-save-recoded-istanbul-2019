@@ -23,3 +23,5 @@ Write the media queries neccesary in the css files for each corresponding animal
  
 [Finished Solution Example](http://learn-co-curriculum.github.io/animal-save/)  
 [Mozilla Dev Network - CSS Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+
+<a href='https://learn.co/lessons/animal-save' data-visibility='hidden'>View this lesson on Learn.co</a>
