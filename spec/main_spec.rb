@@ -4,16 +4,7 @@ require 'capybara/rspec'
 require 'rspec'
 require 'spec_helper'
 
-describe 'site pages' do
-
-  before(:all) do
-    start_server_thread
-    create_screenshots
-  end
-
-  after(:all) do
-    exit_server_thread
-  end
+describe 'index.html' do
 
   before(:each) do
     @comparison = GreenOnion::Compare.new
