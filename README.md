@@ -6,7 +6,7 @@ Use your knowledge of media queries and absolute positioning to help these anima
 
 1. Fork this repo.
 2. Clone your fork.
-3. cd into the local folder for the project.
+3. `cd` into the local folder for the project.
 4. Open the index.html in the browser to navigate to different animal pages to see which ones you can rescue. By clicking and dragging on the corner of the browser see where the animals run into trouble. 
 5. Take advantage of media queries using max-width for desktop down and min-width for mobile up designs. Also utilize positioning: absolute, as well as properties such as top:, left:, right: ,bottom: to set the animals positioning. You can also use CSS transform: rotate() if you wish to turn the animals. A single media query should be used to solve each page.  
 Write the media queries neccesary in the css files for each corresponding animal:  
