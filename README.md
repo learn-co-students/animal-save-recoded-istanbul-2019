@@ -19,7 +19,7 @@ Write the media queries neccesary in the css files for each corresponding animal
 
  There is a finished working copy of this site [here](http://learn-co-curriculum.github.io/animal-save/).
 
- ## Resources
+## Resources
  
 [Finished Solution Example](http://learn-co-curriculum.github.io/animal-save/)  
 [Mozilla Dev Network - CSS Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
