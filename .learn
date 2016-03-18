@@ -6,9 +6,7 @@ tags:
   - media queries
   - animal
   - save
+resources: 2
 type:
   - lab
   - challenge
-tests:
- - green_onion
-resources: 2
