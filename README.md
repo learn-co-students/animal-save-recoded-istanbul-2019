@@ -24,6 +24,4 @@ Write the media queries neccesary in the css files for each corresponding animal
 [Finished Solution Example](http://learn-co-curriculum.github.io/animal-save/)  
 [Mozilla Dev Network - CSS Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/animal-save'>Animal Save</a> on Learn.co and start learning to code for free.</p>
-
 <p class='util--hide'>View <a href='https://learn.co/lessons/animal-save'>Animal Save</a> on Learn.co and start learning to code for free.</p>
