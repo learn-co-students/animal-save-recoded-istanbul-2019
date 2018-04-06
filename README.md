@@ -30,7 +30,7 @@ Write the media queries necessary in the css files for each corresponding animal
   he will run on top of Mr. Alligator's back.
   * For the monkey, use a combination of min-width and max-width to set a media
   query that will allow the monkey to jump up over the Spice Girls from screen
-  size of 406px to 1090px keeping him safe from their affection.
+  size of 406px to 1170px keeping him safe from their affection.
   * For the dolphin, using min-width and max-width help her rotate and jump up
   through the hoop from screen sizes of 642px to 1090px. Note: you can use
   transform: rotate() command to accomplish this. Read about the setting for
