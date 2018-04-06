@@ -36,6 +36,7 @@ Write the media queries necessary in the css files for each corresponding animal
   transform: rotate() command to accomplish this. Read about the setting for
   rotate [here](https://developer.mozilla.org/en-US/docs/Web/CSS/transform).
 
+
  There is a finished working copy of this site [here](http://learn-co-curriculum.github.io/animal-save/).
 
 ## Resources
@@ -43,4 +44,6 @@ Write the media queries necessary in the css files for each corresponding animal
 [Finished Solution Example](http://learn-co-curriculum.github.io/animal-save/)  
 [Mozilla Dev Network - CSS Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/animal-save'>Animal Save</a> on Learn.co and start learning to code for free.</p>
+
