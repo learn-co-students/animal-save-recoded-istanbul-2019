@@ -1,0 +1,25 @@
+@media only screen and (min-width: 1196px){
+    #bear{
+        left: 800px;
+    }
+}
+
+@media only screen and (max-width:1278px){
+    #ostrich  { 
+        top: 0;
+    }
+}
+
+@media (min-width: 406px) and (max-width:1170px){
+    #monkey{
+        top:0;
+    }
+}
+
+@media (min-width:642px) and (max-width:1090px){
+    #dolphin {
+        /* rotate: rotateX(45deg); */
+        top: 1px;
+        transform: rotate(-90deg);
+    }
+}
