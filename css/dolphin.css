@@ -20,3 +20,8 @@ html {
 
 /* Write your solution here */
 
+@media only screen and (min-width:642px ) and (max-width :1090px ){
+  #dolphin{
+    transform: scale(0.7) translate(-100%, -120%); 
+  } 
+}
