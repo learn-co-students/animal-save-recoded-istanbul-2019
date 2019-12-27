@@ -3,10 +3,23 @@ html {
 }
 
 #monkey {
-  position: absolute;
+  position: relative;
   top: 550px;
   right: 120px;
 }
 
 /* Write your solution here */
 
+@media only screen and (min-width:406px) {
+  #monkey {
+    top:200px;
+    left:250px;
+  }
+}
+
+@media only screen and (max-width:1170px){
+  #monkey{
+    top: 500px;
+    left:250px;
+  }
+}
