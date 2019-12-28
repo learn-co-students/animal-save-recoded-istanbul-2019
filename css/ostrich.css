@@ -7,6 +7,13 @@ html {
   top: 50px;
   right: 0;
 }
-
+@media screen 
 /* Write your solution here */
 
+{
+  #ostrich {
+    top:-50px;
+
+}
+
+}
