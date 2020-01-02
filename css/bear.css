@@ -2,6 +2,12 @@ html {
   background: url(../images/cliff.jpg) no-repeat top left;
 }
 
+@media only screen and (min-width: 1196px) {
+  #bear {
+    position: fixed;
+    left: 800px;
+  }
+}
 #bear {
   position: absolute;
   top: 100px;
