@@ -1,12 +1,12 @@
 html {
   background: url(../images/cliff.jpg) no-repeat top left;
 }
-
+@media (max-width: 768px) {
 #bear {
   position: absolute;
   top: 100px;
   right: 0;
-}
+}}
 
 /* Write your solution here */
 
