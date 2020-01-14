@@ -9,4 +9,12 @@ html {
 }
 
 /* Write your solution here */
+html {
+  background: url(../images/croc.jpg) no-repeat top left;
+}
 
+#ostrich {
+  position: absolute;
+  top: 50px;
+  right: 0;
+}
