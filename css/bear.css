@@ -8,5 +8,18 @@ html {
   right: 0;
 }
 
+@media screen and (max-width: 505px) {
+  body {
+    background-color: olive;
+  }
+}
 /* Write your solution here */
+html {
+  background: url(../images/cliff.jpg) no-repeat top left;
+}
 
+#bear {
+  position: absolute;
+  top: 100px;
+  right: 0;
+}

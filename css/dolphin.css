@@ -19,4 +19,22 @@ html {
 }
 
 /* Write your solution here */
+html {
+  background: url(../images/water-park.jpg) no-repeat top left;
+}
 
+#ring {
+  background: url(../images/water-ring.png) no-repeat top left;
+  width: 1200px;
+  height: 750px;
+  position: relative;
+  top: -10px;
+  left: -8px;
+  z-index: 1;
+}
+
+#dolphin {
+  position: absolute;
+  top: 400px;
+  right: 0;
+}
