@@ -19,4 +19,14 @@ html {
 }
 
 /* Write your solution here */
+@media only screen and (max-width:960px) and (min-width:642px){
+
+  #dolphin {
+    position: absolute;
+    top: 100px;
+    right: 100;
+    transform: rotate(0.5turn);
+  }
+
+}
 
