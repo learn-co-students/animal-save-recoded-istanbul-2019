@@ -7,6 +7,10 @@ html {
   top: 550px;
   right: 120px;
 }
+@media only screen and (min-width: 406px) and (max-width: 1090px) {
+  #monkey{
+    top: -30px;
+  }
+}
 
 /* Write your solution here */
-
