@@ -7,6 +7,11 @@ html {
   top: 100px;
   right: 0;
 }
+@media only screen and (min-width: 1300px){
+  #bear{
+    left: 900px;
+  }
+}
 
 /* Write your solution here */
 
