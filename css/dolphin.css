@@ -20,3 +20,8 @@ html {
 
 /* Write your solution here */
 
+@media screen  and (min-width: 1170px) { 
+  #dolphin{
+    top: 350;
+  }
+}
